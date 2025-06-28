@@ -14,8 +14,8 @@ This repository provides a `docker-compose.yml` file for running [FreeCAD](https
    git clone https://github.com/alexleun/docker-FreeCAD-windows.git
    ```
 OR
-1. **Obtaining the Docker Compose File**
-Download the file directly: [docker-compose.yml](https://raw.githubusercontent.com/alexleun/docker-FreeCAD-windows/main/docker-compose.yml)
+
+   **Download the file directly**: [docker-compose.yml](https://raw.githubusercontent.com/alexleun/docker-FreeCAD-windows/main/docker-compose.yml)
 
 
 2. **Navigate to the repository directory:**
