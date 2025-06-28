@@ -12,7 +12,7 @@ This repository provides a `docker-compose.yml` file for running FreeCAD within 
 
 1. **Clone this repository:**
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/alexleun/docker-FreeCAD-windows.git
    ```
 
 2. **Navigate to the repository directory:**
