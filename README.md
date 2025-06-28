@@ -17,7 +17,7 @@ This repository provides a `docker-compose.yml` file for running FreeCAD within 
 
 2. **Navigate to the repository directory:**
    ```bash
-   cd <YOUR_REPOSITORY_DIRECTORY>
+   cd docker-FreeCAD-windows
    ```
 
 3. **Modify `docker-compose.yml` (if necessary):**
@@ -49,5 +49,3 @@ This setup uses a Linux-based FreeCAD image.  While it might work, performance a
 
 MIT License
 ```
-
-Remember to replace `<YOUR_REPOSITORY_URL>` and `<YOUR_REPOSITORY_DIRECTORY>` with the correct values.  Also, choose a suitable license (MIT License is a common and permissive choice).  This README is concise, clearly states the limitations, and provides essential instructions and troubleshooting tips.
