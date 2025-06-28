@@ -1,0 +1,5 @@
+# Ignore Docker-related files and directories
+node_modules/
+.docker/
+docker-compose.lock.json
+*.log
