@@ -13,11 +13,17 @@ This repository provides a `docker-compose.yml` file for running [FreeCAD](https
    ```bash
    git clone https://github.com/alexleun/docker-FreeCAD-windows.git
    ```
+OR
+1. **Obtaining the Docker Compose File**
+Download the file directly: [docker-compose.yml](https://raw.githubusercontent.com/alexleun/docker-FreeCAD-windows/main/docker-compose.yml)
+
 
 2. **Navigate to the repository directory:**
    ```bash
    cd docker-FreeCAD-windows
    ```
+
+
 
 3. **Modify `docker-compose.yml` (if necessary):**
     * **Volume Mapping:**  The `volumes` section maps a directory in the container to a directory on your Windows system.  **Ensure the Windows path (`C:/Users/<YOUR_USERNAME>/docker/freecad` in the example) exists and is accessible.**  Change this path if needed.  Create the directory if it doesn't exist.
